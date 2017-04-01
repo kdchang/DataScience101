@@ -13,6 +13,10 @@ This is a Data Science Learning book and note for beginner (Machine Learning/Dee
 
 5. [SIRAJ RAVAL'S DEEP LEARNING](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
+## Math
+1. [Differential calculus](https://www.khanacademy.org/math/differential-calculus)
+
+2. [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 ## Resource
 1. [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
