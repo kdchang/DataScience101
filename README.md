@@ -1,6 +1,9 @@
-# Data Science 101
+# 從零開始學資料科學與數據分析 - 使用 Python（Data Science 101）
 
 This is a Data Science Learning book and note for beginner (Machine Learning/Deep Learning/Data Mining/Artificial Intelligence/Natural Language Processing/Data Analysis) 
+
+## Content of table
+1. 基礎篇
 
 ## Documents
 1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic#tutorials)
@@ -18,6 +21,11 @@ This is a Data Science Learning book and note for beginner (Machine Learning/Dee
 13. [kdnuggets](http://www.kdnuggets.com/)
 14. [r-bloggers](https://www.r-bloggers.com/)
 
+## Cources
+1. [Kaggle Python Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning#gs.NT85oRI)
+
 ## Math
 1. [Differential calculus](https://www.khanacademy.org/math/differential-calculus)
 2. [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
+
